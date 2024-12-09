@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SYAMKRISHNA</h1>
 <h3 align="center">Flutter Developer | Mobile App Enthusiast | Tech Enthusiast</h3>
 
-- 🌱 I’m currently learning **State management**
+- 🌱 I’m currently working at Dhooma tech pvt.ltd
 
 - 👯 I’m looking to collaborate on **Flutter opensource Project**
 
